@@ -1,0 +1,36 @@
+/**
+  Hi!, 我是Zi莱卷, 
+  今天学习使用React造一个简历的轮子。
+  原项目地址是: http://strml.net/
+  here we go！
+  我们先来准备一个编辑器：
+*/
+
+/** 
+  首先来做一些初始化的工作，将盒模型全部改为
+  IE使用的怪异盒模型方便我们计算元素的宽高
+*/
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  transition: all 1s;
+}
+
+/**
+ 然后添加一些基础样式 
+*/
+body {
+  margin: 0;
+  padding: 0;
+  background: rgb(63, 82, 99);
+  perspective: 1000px;
+}
+
+.editor code {
+  color: #e1e1e1;
+}
+
+/**
+  接下来就开始写编辑器吧！ 
+*/

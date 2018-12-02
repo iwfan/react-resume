@@ -1,0 +1,42 @@
+/**
+  先搞个框子出来
+*/
+
+.editor {
+  position: absolute;
+  margin: 10px 0px;
+  width: 100%;
+  height: 90%;
+  border: 1px solid #ccc;
+  background: rgb(48, 48, 48);
+  overflow: auto;
+}
+/**
+  没有代码高亮，看起来真难受，
+  我们来来加一些高亮代码的样式吧！
+*/
+.editor pre code {
+  color: #be84f2;
+}
+.token.selector {
+  color: #e69f0f;
+}
+.token.comment {
+  color: #857f6b;
+  font-style: italic;
+}
+.token.property {
+  color: #64d5ea;
+}
+.token.punctuation {
+  color: #e1e1e1;
+}
+.token.function {
+  color: F92772;
+}
+
+/**
+加个行号呗
+*/
+
+

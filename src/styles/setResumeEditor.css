@@ -1,0 +1,51 @@
+
+/**
+  接下来开始写简历咯！
+  我想用markdown格式来写简历，
+  所以首先添加markdown的parser(我已经加好咯)
+  我们接下来继续完善样式
+*/
+
+/**
+先把编辑器挪到右边
+*/
+.editor {
+  width: 49%;
+  transform: translateX(103%);
+   /* rotateY(-10deg); */
+  /* transform-origin: right; */
+}
+
+/**
+然后写一下markdown的编辑器样式
+*/
+.resume {
+  position: absolute;
+  left: 10px;
+  margin: 10px 0px;
+  padding: 0px;
+  width: 49%;
+  min-height: 50px;
+  max-height: 90%;
+  border: 1px solid #ccc;
+  overflow: auto;
+  background: #fff;
+}
+
+.markdown-body {
+  box-sizing: border-box;
+  min-width: 200px;
+  max-width: 980px;
+  padding: 25px;
+}
+
+@media (max-width: 767px) {
+  .markdown-body {
+    padding: 15px;
+  }
+}
+
+/**
+ 然后开始写markdown咯
+*/
+
