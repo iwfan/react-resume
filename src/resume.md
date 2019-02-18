@@ -26,9 +26,13 @@
 
 # 工作经历
  
-## 北京国际科技股份有限公司 前端工程师 2016年7月 ~ 至今
+## 北京国际科技股份有限公司
+ 
+Java工程师 2016年7月 ~ 至今
 
-### GiNMS项目 
+### GiNMS项目 - 网络设备智能管理平台
+ 1. 在调研了 Qunee 和 kityminder 并且了解具体需求之后。用 Qunee 作为基础开发与维护前端网络拓扑图相关功能，保证网络设备与链路的正常显示。在这过程中封装了 gqunnee 库，并且不断重构与维护，目前已经迭代了3个大版本。
+ 2. 负责使用 java 开发用户权限相关功能。
 我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
 
 
@@ -54,7 +58,7 @@
 
 * [beautiful-world](https://github.com/iwfan/beautiful-world): 一个基于 Gatsby 创建的博客starter。
 * [react-hacker-news](https://github.com/iwfan/react-hacker-news): 用 React 编写的 Hacker News 客户端。
-* [JavaScript30](http://github.com/yourname/projectname)：Wes Bos 推出的一个 30 天挑战。
+* [JavaScript30](https://github.com/iwfan/JavaScript30/)：Wes Bos 推出的一个 30 天挑战。
 * [todos](https://github.com/iwfan/todos): 用 Vue 编写的一个管理待办事项的Web应用。
 
 ## 翻译文章
