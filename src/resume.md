@@ -14,13 +14,12 @@
  
  - 期望职位：Web前端工程师
  
- - 微信：f97o761619
+ - 微信：f97o761679
 
 
 # 技能清单
 
-以下均为我熟练使用的技能
-
+* 熟悉 HTML5/CSS3/ES6
 * Web开发：PHP/Hack/Node
 * Web框架：ThinkPHP/Yaf/Yii/Lavarel/LazyPHP
 * 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
@@ -32,23 +31,40 @@
 
 
 # 工作经历
+ 
+## JKL公司 （ 2016年7月 ~ 至今 ）
+
+### MNO项目 
+我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
+
+
+### PQR项目 
+我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
+
+
+### 其他项目
+
+（每个公司写2~3个核心项目就好了，如果你有非常大量的项目，那么按分类进行合并，每一类选一个典型写出来。其他的一笔带过即可。）
+
+## ABC公司 （ 2016年9月 ~ 2016年6月 ）
+
+### DEF项目 
+我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
 
 
 # 开源项目和作品
 
 ## 开源项目
 
-（对于程序员来讲，没有什么比Show me the code能有说服力了）
+* [beautiful-world](https://github.com/iwfan/beautiful-world): 一个基于 Gatsby 创建的博客starter。
+* [react-hacker-news](https://github.com/iwfan/react-hacker-news): 用 React 编写的 Hacker News 客户端。
+* [JavaScript30](http://github.com/yourname/projectname)：Wes Bos 推出的一个 30 天挑战。
+* [todos](https://github.com/iwfan/todos): 用 Vue 编写的一个管理待办事项的Web应用。
 
-* [JavaScript30](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
-* [WXYZ](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
+## 翻译文章
 
-## 技术文章
-
-（挑选你写作或翻译的技术文章，好的文章可以从侧面证实你的表达和沟通能力，也帮助招聘方更了解你）
-
-* [一个产品经理眼中的云计算：前生今世和未来](http://get.jobdeer.com/706.get)
-* [来自HeroKu的HTTP API 设计指南\(翻译文章\)](http://get.jobdeer.com/343.get) （ 好的翻译文章可以侧证你对英文技术文档的阅读能力）
+* [你应该知道的React概念](https://blog.wangfan.site/post/these-are-the-concepts-you-should-know-in-react-js/)
+* [如何编写更好的React代码](https://blog.wangfan.site/post/how-to-write-better-code-in-react/)
 
 ---
 
