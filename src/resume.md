@@ -1,22 +1,14 @@
 # 个人信息
 
- - 王凡 / 男 / 1995
- 
- - 手机：185****0326
-
- - 邮箱：i.wangfancn@gmail.com
- 
- - 太原学院 / 计算机系 / 应用电子技术专业
- 
- - 技术博客：[https://blog.wangfan.site/](https://blog.wangfan.site/)
- 
- - Github: [http://github.com/iwfan](http://github.com/iwfan)
- 
- - 期望职位：Web前端工程师
- 
- - 期望地点: 西安、杭州
- 
- - 微信：f97o761679
+- 王凡 / 男 / 1995
+- 手机：185****0326
+- 邮箱：i.wangfancn@gmail.com
+- 太原学院 / 计算机系 / 应用电子技术专业
+- 技术博客：[https://blog.wangfan.site/](https://blog.wangfan.site/)
+- Github: [http://github.com/iwfan](http://github.com/iwfan)
+- 期望职位：Web前端工程师
+- 期望地点: 西安、杭州
+- 微信：f97o761679
 
 
 # 技能清单
