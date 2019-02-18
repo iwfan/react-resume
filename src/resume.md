@@ -6,6 +6,8 @@
 
  - 邮箱：i.wangfancn@gmail.com
  
+ - 太原学院 / 计算机系 / 应用电子技术专业
+ 
  - 技术博客：[https://blog.wangfan.site/](https://blog.wangfan.site/)
  
  - Github: [http://github.com/iwfan](http://github.com/iwfan)
