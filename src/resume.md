@@ -10,19 +10,14 @@
 - 期望地点: 西安、杭州
 - 微信：f97o761679
 
+# 个人评价
 
-# 技能清单
-
-* 熟悉 HTML5/CSS3/ES6
-* Web开发：PHP/Hack/Node
-* Web框架：ThinkPHP/Yaf/Yii/Lavarel/LazyPHP
-* 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
-* 前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
-* 数据库相关：MySQL/PgSQL/PDO/SQLite
-* 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer
-* 单元测试：PHPUnit/SimpleTest/Qunit
-* 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
-
+* 近三年的开发经验，能够独立、高效的完成前端任务。
+* 扎实的HTML/CSS/JavaScript基础，熟练使用常用的ES6+特性，有 React 和 Vue 使用经验。
+* 熟练使用 TypeScript， 熟悉 Java 。
+* 熟悉 Git/SVN 版本管理工具，熟悉多人协作开发。
+* 吃苦耐劳，抗压能力强以及强烈的求知欲。
+* 代码规范强迫症。
 
 # 工作经历
  
@@ -35,7 +30,7 @@ Java工程师 2016年7月 ~ 至今
  2. 主导引入了 seajs 为前端代码进行模块化的划分，后来将 seajs 变更为 requirejs。
  3. 负责使用 java 开发用户角色授权的相关功能。
  4. 负责项目在 centos 上的部署任务。
- 
+ echarts
 我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
 
 ### GiMAC项目 
@@ -45,17 +40,13 @@ Java工程师 2016年7月 ~ 至今
 
 主导完成了java版本集成开发环境的搭建，主要使用 Jenkins 作为持续集成环境的主导，Nexus 作为 Maven 的私服仓库，SVN 作为代码管理与存储，Sonar 代码质量与风格的检查。输出了多个文档。
 
-
 ### 其他项目
 
  * GiNMS4.7和GiNMS5.1项目, 都是基于GiNMS主项目的变种。主要负责数据大屏展示的工作。
- 
-
-### 基于JAVA的办公自动化系统
+ * vuepress 搭建了内部文档系统。
 
  1. 使用 java + sql 完成用户与部门的增删改查。
  2. 使用 jsp + jquery 完成部门树的页面。
-
 
 # 开源项目和作品
 
