@@ -6,24 +6,24 @@
 - 太原学院 / 计算机系 / 应用电子技术专业
 - 技术博客：[https://blog.wangfan.site/](https://blog.wangfan.site/)
 - Github: [http://github.com/iwfan](http://github.com/iwfan)
-- 期望职位：Web 前端工程师
+- 期望职位：前端工程师
 - 期望地点: 西安、杭州
 - 微信：f97\*\*\*\*619
 
 # 个人评价
 
-- 近三年的开发经验，能够独立、高效的完成前端任务。
-- 扎实的 HTML/CSS/JavaScript 基础，熟练使用常用的 ES6+特性，有 React 和 Vue 使用经验。
-- 熟悉常用的前端性能优化方案，了解前端工程化与常用的构建工具 parcel 和 webpack。
-- 熟练使用 TypeScript，有 Java 开发经验，更能从数据的角度理解前端开发。
-- 熟悉 Git/SVN 版本管理工具，熟悉多人协作开发。
+- 近三年的开发经验，扎实的 HTML / CSS / JavaScript 基础，熟练使用常用的 ES6+ 特性，能够独立、高效的完成前端任务。
+- 熟练使用 React / Redux / TypeScript / Vue 等流行前端技术。
+- 熟悉常用的前端性能优化方案，熟悉前端工程化与常用的构建工具 parcel 和 webpack。
+- 熟悉 Git / SVN 版本管理工具，熟悉多人协作开发。
+- 有 Java 开发经验，更能从数据的角度理解前端开发。
 - 吃苦耐劳，抗压能力强以及强烈的求知欲。代码规范强迫症。
 
 # 工作经历
 
 ## 北京国基科技股份有限公司
 
-Web 前端工程师 2016 年 7 月 ~ 至今
+前端工程师 2016 年 7 月 ~ 至今
 
 ### GiNMS 项目
 
@@ -40,7 +40,7 @@ Web 前端工程师 2016 年 7 月 ~ 至今
   - 负责使用 java 开发其他功能。
 
 - **项目业绩**：
-  在 GiNMS 项目中主导前端业务的开发，由于项目与后端严重耦合，暂时无法进行前后端分离。所以引入了 requirejs + Vue 的形式进行前端开发，淡化 freemarker 和 jQuery 的作用，为项目的前后端分离做准备。期间学习了前端开发的常用知识以及新特性，例如 ES6+ / Vue / React / TypeScript / Parcel / Webpack，为项目引入了许多新的内容。目前项目中绝大部分类库已经升级完成 ES6。
+  在 GiNMS 项目中主导前端业务的开发，由于项目与后端严重耦合，暂时无法进行前后端分离。所以引入了 requirejs + Vue 的形式进行前端开发，淡化 freemarker 和 jQuery 的作用，为项目的前后端分离做准备。期间学习了前端开发的常用知识以及新特性，例如 ES6+ / Vue / React / TypeScript / Parcel / Webpack，为项目引入了许多新的内容。封装了多个组件，提高了开发效率。
 
 ### GiMAC 项目
 
