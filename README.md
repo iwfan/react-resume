@@ -4,7 +4,7 @@
 
 # 预览
 
-[https://www.wangfan.site/react-resume](https://www.wangfan.site/react-resume)
+WIP
 
 # 运行
 
